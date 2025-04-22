@@ -1,0 +1,6 @@
+flask
+gunicorn
+google-generativeai
+flask-cors
+requests
+
