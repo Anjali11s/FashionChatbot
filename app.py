@@ -91,7 +91,8 @@ def query_gemini(prompt):
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    # return render_template("index.html")
+    return "Flask app Render pe successfully chal raha hai!"
 
 @app.route("/chat", methods=["POST"])
 def chat():
