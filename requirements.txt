@@ -3,4 +3,5 @@ gunicorn
 google-generativeai
 flask-cors
 requests
+python-dotenv
 
